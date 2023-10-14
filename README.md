@@ -3,13 +3,12 @@
 ![Profile Banner](profile_banner.png)
 
 ## About Me
-Hi there! I'm [Your Name], a passionate 💻 [Your Profession/Interest] from [Your Location]. I'm dedicated to 🚀 [Briefly describe your main interests or goals in your field]. This GitHub profile is where I share my projects and contributions.
+Hi there! I'm Behlil Ouassim, a passionate 💻 Data Analyst from Morocco. I'm dedicated to 🚀 [Briefly describe your main interests or goals in your field]. This GitHub profile is where I share my projects and contributions.
 
-- 🔭 I’m currently working on [Current Project/Goal].
+- 🔭 I’m currently a m.
 - 🌱 I’m currently learning [What you are learning or improving].
 - 💬 Ask me about [Topics you're knowledgeable about].
 - 📫 How to reach me: [Your Email Address]
-- 😄 Pronouns: [Your Pronouns]
 
 ## My Projects
 
