@@ -1,3 +1,4 @@
+
 # Hi there! 👋 I'm Behlil Ouassim
 
 I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. I love turning raw data into actionable insights. Here's what you'll find in my profile:
@@ -15,8 +16,7 @@ I'm a passionate data scientist with expertise in machine learning, data analysi
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behlil&layout=compact)
-[![Ouassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=behlil)](https://github.com/behlil/github-readme-stats&show_icons=true&theme=dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=behlil&repo=github-readme-stats)](https://github.com/behlil/github-readme-stats)
+[![Ouassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=behlil&show_icons=true&theme=dark)](https://github.com/behlil/github-readme-stats&show_icons=true&theme=dark)
 
 
 ## 📫 Let's Connect
