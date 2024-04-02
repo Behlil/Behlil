@@ -15,7 +15,7 @@ I'm a passionate data scientist with expertise in machine learning, data analysi
 - Statistical Analysis
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behlil&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behlil&layout=compact&show_icons=true&theme=dark)
 [![Ouassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=behlil&show_icons=true&theme=dark)](https://github.com/behlil/github-readme-stats&show_icons=true&theme=dark)
 
 
