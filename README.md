@@ -15,8 +15,20 @@ I'm a passionate data scientist with expertise in machine learning, data analysi
 - Statistical Analysis
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behlil&layout=compact&show_icons=true&theme=dark)
+
+<!--[![](https://github-readme-stats.vercel.app/api?username=AGMach7&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/AGMach7/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=AGMach7&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/AGMach7/github-readme-stats#gh-light-mode-only)-->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AGMach7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<div align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=behlil&type=svg)](https://git.io/streak-stats)
+
+  ![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=behlil&theme=default)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behlil&layout=compact&show_icons=true&theme=dark)
 [![Ouassim's GitHub stats](https://github-readme-stats.vercel.app/api?username=behlil&show_icons=true&theme=dark)](https://github.com/behlil/github-readme-stats&show_icons=true&theme=dark)
+
+</div>
 
 
 ## 📫 Let's Connect
