@@ -9,10 +9,10 @@ I'm a passionate data scientist with expertise in machine learning, data analysi
 
 ## 🌱 Skills
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-- ![Data Visualization](https://img.shields.io/badge/Data_Visualization-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4EAEFF?style=for-the-badge&logo=Seaborn&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Database Management](https://img.shields.io/badge/Database_Management-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
-- ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-FF6F00?style=for-the-badge&logo=Jupyter&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+- ![Data Visualization](https://img.shields.io/badge/Data_Visualization-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4EAEFF?style=for-the-badge&logo=Seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=Plotly&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) ![Database Management](https://img.shields.io/badge/Database_Management-003B57?style=for-the-badge&logo=SQLite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+- ![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-FF6F00?style=for-the-badge&logo=Jupyter&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white) ![SPSS](https://img.shields.io/badge/SPSS-000000?style=for-the-badge&logo=IBM&logoColor=white) ![STATA](https://img.shields.io/badge/STATA-007ACC?style=for-the-badge&logo=STATA&logoColor=white)
 
 
 ## 📊 GitHub Stats
